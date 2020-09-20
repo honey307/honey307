@@ -6,8 +6,8 @@ I have also basics about Django , Java .
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Machine Learning and Django Projects **
-- 🌱 I’m currently learning **Deep Learning and Django **
+- 🔭 I’m currently working on **Machine Learning and Django Projects**
+- 🌱 I’m currently learning **Deep Learning and Django**
 - 👯 I’m looking to collaborate on Machine Learning projects and Deep Learning 
 - 📫 How to reach me: [Linked In Profile ](https://www.linkedin.com/in/honey-darji-368240187/)
 - 😄 Pronouns: **Honey**
